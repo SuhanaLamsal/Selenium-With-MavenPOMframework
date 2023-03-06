@@ -1,0 +1,11 @@
+20230219 23:18:11 WARN  [main] commontests.Log4jTest Log4jTest.java13 - This is a warn message1
+20230219 23:18:11 ERROR [main] commontests.Log4jTest Log4jTest.java14 - This is an error message1
+20230219 23:18:11 FATAL [main] commontests.Log4jTest Log4jTest.java15 - This is a fatal message1
+20230219 23:18:57 WARN  [main] commontests.Log4jTest Log4jTest.java13 - This is a warn message1
+20230219 23:18:57 ERROR [main] commontests.Log4jTest Log4jTest.java14 - This is an error message1
+20230219 23:18:57 FATAL [main] commontests.Log4jTest Log4jTest.java15 - This is a fatal message1
+20230219 23:38:48 DEBUG [main] commontests.Log4jTest Log4jTest.java11 - This is a debug message1
+20230219 23:38:48 INFO  [main] commontests.Log4jTest Log4jTest.java12 - This is an info message1
+20230219 23:38:48 WARN  [main] commontests.Log4jTest Log4jTest.java13 - This is a warn message1
+20230219 23:38:48 ERROR [main] commontests.Log4jTest Log4jTest.java14 - This is an error message1
+20230219 23:38:48 FATAL [main] commontests.Log4jTest Log4jTest.java15 - This is a fatal message1
